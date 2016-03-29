@@ -35,9 +35,9 @@ title: "Danjones's Projects"
 
 		<ul class="repos">{% assign sorted_repositories = site.github.public_repositories|sort:"watchers"|reverse|group_by:"watchers" %}
 		  {% for group in sorted_repositories %}<!-- {{ group.name }} -->{% assign sort_repos_by_update = group.items|sort:"updated_at"|reverse %}
-		  {% for repo in sort_repos_by_update %}{% if repo.fork or repo.created_at == repo.updated_at %}{% continue %}{% endif %}
+		  {% for repo in sort_repos_by_update %}{% if repo.fork or repo.created_at == repo.updated_at or repo.name == "goodevilgenius.github.com" %}{% continue %}{% endif %}
 		  <li class="repo" data-repo-name="{{ repo.name|escape }}">
-			<div class="repo repo-lang-{% if repo.lanague and repo.language != "" %}{{ repo.language | downcase }}{% else %}generic{% endif %}">
+			<div class="repo repo-lang-{% if repo.language and repo.language != "" %}{{ repo.language | downcase }}{% else %}generic{% endif %}">
 			  <p class="repo-title"><a class="repo-link" href="{% if repo.homepage and repo.homepage != "" %}{{ repo.homepage }}{% else %}{{ repo.html_url }}{% endif %}">{{ repo.name }}</a></p>
 			  {% if repo.description and repo.description != "" %}<p class="repo-desc">{{ repo.description }}</p>{% endif %}
 			  <p class="repo-pop">
