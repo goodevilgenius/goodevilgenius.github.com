@@ -63,7 +63,11 @@ $ git checkout gh-pages
       </footer>
     </div>
 
-    
+    {% for repo in site.github.public_repositories %}
+     {% if repo.fork != true %}
+      <!-- <a href="{{ repo.homepage }}">{{ repo.name }}</a> -->
+     {% endif %}
+    {% endfor %}
 
   </body>
 </html>
