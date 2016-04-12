@@ -2,3 +2,6 @@ repository: goodevilgenius/goodevilgenius.github.com
 gems: ['jekyll-github-metadata']
 exclude:
 - README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
