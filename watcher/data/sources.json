@@ -1,6 +1,7 @@
-{
-  "trek-chron": {
+[
+  {
     "name": "Star Trek Chronology",
-    "date": 1507838728
+    "slug": "trek-chron",
+    "date": 1506304489
   }
-}
+]
