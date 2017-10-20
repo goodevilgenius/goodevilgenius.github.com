@@ -3,5 +3,10 @@
     "name": "Star Trek Chronology",
     "slug": "trek-chron",
     "date": 1506304489
+  },
+  {
+    "name":"Inuyasha",
+    "slug":"inuyasha",
+    "date":1501713178
   }
 ]
