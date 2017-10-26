@@ -11,10 +11,10 @@
   <body>
     <div id="app">
       <ul>
-        <li v-for="source in sources"><a target="_blank" v-on:click.stop="load(source)" :href="'#' + source.slug">{{ source.name }}</a></li>
+        <li v-for="source in sources"><a v-on:click.stop="load(source)" :href="'#' + source.slug">{{ source.name }}</a></li>
       </ul>
       <ul>
-        <li v-for="item in list" v-if="item.last_watched < current.date"><a :href="item.url">{{ item.title }}</a></li>
+        <li v-for="item in list" v-if="item.last_watched < current.date"><a target="_blank" :href="item.url">{{ item.title }}</a></li>
       </ul>
     </div>
     <script src="js/app.js"></script>
