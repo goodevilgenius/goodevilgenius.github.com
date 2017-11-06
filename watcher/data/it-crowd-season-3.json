@@ -1,0 +1,56 @@
+[
+  {
+    "series_id": 2475,
+    "episode_id": 201110,
+    "title": "The IT Crowd 3x01 \"From Hell\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/3/episodes/1",
+    "watches": 2,
+    "last_watched": 1509590086,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 2475,
+    "episode_id": 201111,
+    "title": "The IT Crowd 3x02 \"Are We Not Men?\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/3/episodes/2",
+    "watches": 2,
+    "last_watched": 1509829286,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 2475,
+    "episode_id": 201112,
+    "title": "The IT Crowd 3x03 \"Tramps Like Us\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/3/episodes/3",
+    "watches": 1,
+    "last_watched": 1300468837,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 2475,
+    "episode_id": 201113,
+    "title": "The IT Crowd 3x04 \"The Speech\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/3/episodes/4",
+    "watches": 1,
+    "last_watched": 1300468837,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 2475,
+    "episode_id": 201114,
+    "title": "The IT Crowd 3x05 \"Friendface\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/3/episodes/5",
+    "watches": 1,
+    "last_watched": 1300468837,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 2475,
+    "episode_id": 201115,
+    "title": "The IT Crowd 3x06 \"Calendar Geeks\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/3/episodes/6",
+    "watches": 1,
+    "last_watched": 1300468837,
+    "type": "TVEpisode"
+  }
+]
