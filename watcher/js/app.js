@@ -28,9 +28,29 @@
       load: function(source) {
         this.current = source;
         axios.get('data/' + source.slug + '.json')
-          .then(response => this.list = response.data);
+          .then(response => {
+            const data = response.data;
+            let proms = data.map((datum) => {
+              if (datum.include) {
+                return axios.get('data/' + datum.include);
+              } else {
+                return new Promise(resolve => resolve(datum));
+              }
+            });
+            Promise.all(proms).then(values => {
+              let r = [];
+              values.forEach(datum => {
+                if (datum.data) {
+                  datum.data.forEach(ep => r.push(ep));
+                } else {
+                  r.push(datum);
+                }
+              });
+              this.list = r;
+            });
+          });
       }
     }
-  })
+  });
 
 })();
