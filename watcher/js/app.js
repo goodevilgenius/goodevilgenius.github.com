@@ -9,20 +9,15 @@
     el: '#app',
     data: {
       sources: {},
-      list: {},
+      fullList: [],
       current: {}
     },
-    created: function() {
-      axios.get('data/sources.json')
-        .then(response => {
-          this.sources = response.data;
-          let hash = location.hash.split('#')[1];
-
-          let slugs = this.sources.map(source => source.slug);
-          if (hash && (slugs.indexOf(hash) > -1)) {
-            this.load(this.sources.filter(source => source.slug == hash)[0]);
-          }
-        });
+    computed: {
+      list: function() {
+        const list = this.fullList;
+        const now = this.current;
+        return list ? list.filter(item => item.last_watched < now.date) : [];
+      }
     },
     methods: {
       load: function(source) {
@@ -46,10 +41,22 @@
                   r.push(datum);
                 }
               });
-              this.list = r;
+              this.fullList = r;
             });
           });
       }
+    },
+    created: function() {
+      axios.get('data/sources.json')
+        .then(response => {
+          this.sources = response.data;
+          let hash = location.hash.split('#')[1];
+
+          let slugs = this.sources.map(source => source.slug);
+          if (hash && (slugs.indexOf(hash) > -1)) {
+            this.load(this.sources.filter(source => source.slug == hash)[0]);
+          }
+        });
     }
   });
 
