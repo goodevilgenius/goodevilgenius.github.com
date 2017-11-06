@@ -1,6 +1,10 @@
 (function() {
   'use strict';
 
+  if (location.protocol == 'http:' && location.host == 'projects.danielrayjones.com') {
+    location.replace(location.href.replace('http:', 'https:'));
+  }
+
   var watched = new Vue({
     el: '#app',
     data: {
