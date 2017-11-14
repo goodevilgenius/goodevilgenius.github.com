@@ -94,8 +94,8 @@
     "episode_id": 17722,
     "title": "Star Trek: Enterprise 1x11 \"Cold Front\"",
     "url": "https://trakt.tv/shows/star-trek-enterprise/seasons/1/episodes/11",
-    "watches": 1,
-    "last_watched": 1300384425,
+    "watches": 2,
+    "last_watched": 1510611721,
     "type": "TVEpisode"
   },
   {
@@ -929,7 +929,7 @@
   {
     "series_id": 110419,
     "episode_id": 2759633,
-    "title": "Star Trek: Discovery 1x08 \"Si Vis Pacem. Para Bellum\"",
+    "title": "Star Trek: Discovery 1x08 \"Si Vis Pacem, Para Bellum\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/8",
     "watches": 1,
     "last_watched": 1509936913,
@@ -940,6 +940,15 @@
     "episode_id": 2759634,
     "title": "Star Trek: Discovery 1x09 \"Into the Forest I Go\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/9",
+    "watches": 1,
+    "last_watched": 1510540148,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 2788106,
+    "title": "Star Trek: Discovery 1x10 \"Despite Yourself\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/10",
     "watches": 0,
     "last_watched": null,
     "type": "TVEpisode"
