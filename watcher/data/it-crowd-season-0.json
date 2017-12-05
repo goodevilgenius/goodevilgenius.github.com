@@ -1,0 +1,20 @@
+[
+  {
+    "series_id": 2475,
+    "episode_id": 1455255,
+    "title": "The IT Crowd 0x04 \"The Internet Is Coming\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/0/episodes/4",
+    "watches": 2,
+    "last_watched": 1512482161,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 2475,
+    "episode_id": 1455256,
+    "title": "The IT Crowd 0x05 \"The IT Crowd Manual\"",
+    "url": "https://trakt.tv/shows/the-it-crowd/seasons/0/episodes/5",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  }
+]
