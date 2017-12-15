@@ -1,22 +1,26 @@
 [
   {
-    "name": "Star Trek Chronology",
-    "slug": "trek-chron",
-    "date":1507601401
+    "name":"Star Trek Chronology",
+    "slug":"trek-chron",
+    "date":1507601401,
+    "url":"https://trakt.tv/users/goodevilgenius/lists/star-trek-chronology"
   },
   {
     "name":"Inuyasha",
     "slug":"inuyasha",
-    "date":1501713178
+    "date":1501713178,
+    "url":"https://trakt.tv/shows/inuyasha"
   },
   {
     "name":"IT Crowd",
     "slug":"it-crowd",
-    "date":1512482162
+    "date":1512482162,
+    "url":"https://trakt.tv/shows/the-it-crowd"
   },
   {
     "name":"Family Matters",
     "slug":"family-matters",
-    "date":1506865199
+    "date":1506865199,
+    "url":"https://trakt.tv/shows/family-matters"
   }
 ]

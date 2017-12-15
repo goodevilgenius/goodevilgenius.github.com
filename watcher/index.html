@@ -11,7 +11,7 @@
   <body>
     <div id="app">
       <ul>
-        <li v-for="source in sources"><a v-on:click.stop="load(source)" :href="'#' + source.slug">{{ source.name }}</a></li>
+        <li v-for="source in sources"><a v-on:click.stop="load(source)" :href="'#' + source.slug">{{ source.name }}</a> <a v-if="source.url" :href="source.url">&#x21AA;</a></li>
       </ul>
       <ul>
         <li v-for="item in list"><a target="_blank" :href="item.url">{{ item.title }}</a></li>
