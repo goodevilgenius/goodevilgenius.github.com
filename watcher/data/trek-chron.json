@@ -769,8 +769,8 @@
     "episode_id": 17797,
     "title": "Star Trek: Enterprise 4x10 \"Daedalus\"",
     "url": "https://trakt.tv/shows/star-trek-enterprise/seasons/4/episodes/10",
-    "watches": 1,
-    "last_watched": 1300916921,
+    "watches": 2,
+    "last_watched": 1518138669,
     "type": "TVEpisode"
   },
   {
@@ -778,8 +778,8 @@
     "episode_id": 17798,
     "title": "Star Trek: Enterprise 4x11 \"Observer Effect\"",
     "url": "https://trakt.tv/shows/star-trek-enterprise/seasons/4/episodes/11",
-    "watches": 1,
-    "last_watched": 1300916990,
+    "watches": 2,
+    "last_watched": 1518210176,
     "type": "TVEpisode"
   },
   {
@@ -787,8 +787,8 @@
     "episode_id": 17799,
     "title": "Star Trek: Enterprise 4x12 \"Babel One (1)\"",
     "url": "https://trakt.tv/shows/star-trek-enterprise/seasons/4/episodes/12",
-    "watches": 1,
-    "last_watched": 1301044225,
+    "watches": 2,
+    "last_watched": 1518313122,
     "type": "TVEpisode"
   },
   {
@@ -796,8 +796,8 @@
     "episode_id": 17800,
     "title": "Star Trek: Enterprise 4x13 \"United (2)\"",
     "url": "https://trakt.tv/shows/star-trek-enterprise/seasons/4/episodes/13",
-    "watches": 1,
-    "last_watched": 1301044249,
+    "watches": 2,
+    "last_watched": 1518399384,
     "type": "TVEpisode"
   },
   {
@@ -805,8 +805,8 @@
     "episode_id": 17801,
     "title": "Star Trek: Enterprise 4x14 \"The Aenar (3)\"",
     "url": "https://trakt.tv/shows/star-trek-enterprise/seasons/4/episodes/14",
-    "watches": 1,
-    "last_watched": 1301076942,
+    "watches": 2,
+    "last_watched": 1518474479,
     "type": "TVEpisode"
   },
   {
@@ -983,7 +983,7 @@
   {
     "series_id": 110419,
     "episode_id": 2818719,
-    "title": "Star Trek: Discovery 1x14 \"The War Without The War Within\"",
+    "title": "Star Trek: Discovery 1x14 \"The War Without, the War Within\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/14",
     "watches": 1,
     "last_watched": 1517838262,
@@ -994,8 +994,8 @@
     "episode_id": 2818720,
     "title": "Star Trek: Discovery 1x15 \"Will You Take My Hand?\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/15",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1518486620,
     "type": "TVEpisode"
   },
   {
