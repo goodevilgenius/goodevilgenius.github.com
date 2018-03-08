@@ -16,7 +16,7 @@
       list: function() {
         const list = this.fullList;
         const now = this.current;
-        return list ? list.filter(item => item.last_watched < now.date && item.series_id != 313) : [];
+        return list ? list.filter(item => item.last_watched < now.date) : [];
       }
     },
     methods: {
