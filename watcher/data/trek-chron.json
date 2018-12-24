@@ -855,6 +855,15 @@
     "type": "TVEpisode"
   },
   {
+    "series_id": 110419,
+    "episode_id": 3164163,
+    "title": "Star Trek: Discovery 0x04 \"The Brightest Star\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/4",
+    "watches": 1,
+    "last_watched": 1544489272,
+    "type": "TVEpisode"
+  },
+  {
     "series_id": 252,
     "episode_id": 16099,
     "title": "Star Trek 0x01 \"The Cage (Original Pilot)\"",
@@ -996,6 +1005,15 @@
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/15",
     "watches": 2,
     "last_watched": 1520462663,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3164158,
+    "title": "Star Trek: Discovery 0x02 \"Runaway\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/2",
+    "watches": 2,
+    "last_watched": 1544747704,
     "type": "TVEpisode"
   },
   {
@@ -2959,8 +2977,8 @@
     "episode_id": 41019,
     "title": "Star Trek: The Next Generation 6x06 \"True Q\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6/episodes/6",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1545612501,
     "type": "TVEpisode"
   },
   {
@@ -6549,5 +6567,14 @@
     "watches": 1,
     "last_watched": 1332529737,
     "type": "Movie"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3164160,
+    "title": "Star Trek: Discovery 0x03 \"Calypso\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/3",
+    "watches": 2,
+    "last_watched": 1545009427,
+    "type": "TVEpisode"
   }
 ]
