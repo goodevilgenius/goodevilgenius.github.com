@@ -857,7 +857,7 @@
   {
     "series_id": 110419,
     "episode_id": 3164163,
-    "title": "Star Trek: Discovery 0x04 \"The Brightest Star\"",
+    "title": "Star Trek: Discovery 0x04 \"Short Treks: The Brightest Star\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/4",
     "watches": 1,
     "last_watched": 1544489272,
@@ -1010,10 +1010,37 @@
   {
     "series_id": 110419,
     "episode_id": 3164158,
-    "title": "Star Trek: Discovery 0x02 \"Runaway\"",
+    "title": "Star Trek: Discovery 0x02 \"Short Treks: Runaway\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/2",
     "watches": 2,
     "last_watched": 1544747704,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3187527,
+    "title": "Star Trek: Discovery 2x01 \"Brother\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/1",
+    "watches": 1,
+    "last_watched": 1547953222,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3325911,
+    "title": "Star Trek: Discovery 2x02 \"New Eden\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/2",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3325912,
+    "title": "Star Trek: Discovery 2x03 \"undefined\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/3",
+    "watches": 0,
+    "last_watched": null,
     "type": "TVEpisode"
   },
   {
@@ -3094,8 +3121,8 @@
     "episode_id": 41026,
     "title": "Star Trek: The Next Generation 6x13 \"Aquiel\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6/episodes/13",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1546653360,
     "type": "TVEpisode"
   },
   {
@@ -3103,8 +3130,8 @@
     "episode_id": 37242,
     "title": "Star Trek: Deep Space Nine 1x07 \"Q-Less\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/1/episodes/7",
-    "watches": 1,
-    "last_watched": 1361990153,
+    "watches": 2,
+    "last_watched": 1546735609,
     "type": "TVEpisode"
   },
   {
@@ -3112,8 +3139,8 @@
     "episode_id": 41027,
     "title": "Star Trek: The Next Generation 6x14 \"Face of the Enemy\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6/episodes/14",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1546820642,
     "type": "TVEpisode"
   },
   {
@@ -3121,8 +3148,8 @@
     "episode_id": 37243,
     "title": "Star Trek: Deep Space Nine 1x08 \"Dax\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/1/episodes/8",
-    "watches": 1,
-    "last_watched": 1362513314,
+    "watches": 2,
+    "last_watched": 1547510404,
     "type": "TVEpisode"
   },
   {
@@ -6571,7 +6598,7 @@
   {
     "series_id": 110419,
     "episode_id": 3164160,
-    "title": "Star Trek: Discovery 0x03 \"Calypso\"",
+    "title": "Star Trek: Discovery 0x03 \"Short Treks: Calypso\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/3",
     "watches": 2,
     "last_watched": 1545009427,
