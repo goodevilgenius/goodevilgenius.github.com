@@ -1030,15 +1030,60 @@
     "episode_id": 3325911,
     "title": "Star Trek: Discovery 2x02 \"New Eden\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/2",
+    "watches": 1,
+    "last_watched": 1549242094,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3325912,
+    "title": "Star Trek: Discovery 2x03 \"Point of Light\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/3",
     "watches": 0,
     "last_watched": null,
     "type": "TVEpisode"
   },
   {
     "series_id": 110419,
-    "episode_id": 3325912,
-    "title": "Star Trek: Discovery 2x03 \"undefined\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/3",
+    "episode_id": 3341065,
+    "title": "Star Trek: Discovery 2x04 \"An Obol for Charon\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/4",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3341067,
+    "title": "Star Trek: Discovery 2x05 \"Saints of Imperfection\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/5",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3342762,
+    "title": "Star Trek: Discovery 2x06 \"The Sounds of Thunder\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/6",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3342763,
+    "title": "Star Trek: Discovery 2x07 \"undefined\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/7",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3342764,
+    "title": "Star Trek: Discovery 2x08 \"If Memory Serves\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/8",
     "watches": 0,
     "last_watched": null,
     "type": "TVEpisode"
