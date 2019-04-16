@@ -1039,8 +1039,8 @@
     "episode_id": 3325912,
     "title": "Star Trek: Discovery 2x03 \"Point of Light\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/3",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1549509445,
     "type": "TVEpisode"
   },
   {
@@ -1048,8 +1048,8 @@
     "episode_id": 3341065,
     "title": "Star Trek: Discovery 2x04 \"An Obol for Charon\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/4",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1550112346,
     "type": "TVEpisode"
   },
   {
@@ -1057,26 +1057,26 @@
     "episode_id": 3341067,
     "title": "Star Trek: Discovery 2x05 \"Saints of Imperfection\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/5",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1550453049,
     "type": "TVEpisode"
   },
   {
     "series_id": 110419,
     "episode_id": 3342762,
-    "title": "Star Trek: Discovery 2x06 \"The Sounds of Thunder\"",
+    "title": "Star Trek: Discovery 2x06 \"The Sound of Thunder\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/6",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1551059479,
     "type": "TVEpisode"
   },
   {
     "series_id": 110419,
     "episode_id": 3342763,
-    "title": "Star Trek: Discovery 2x07 \"undefined\"",
+    "title": "Star Trek: Discovery 2x07 \"Light and Shadows\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/7",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1551495732,
     "type": "TVEpisode"
   },
   {
@@ -1084,6 +1084,60 @@
     "episode_id": 3342764,
     "title": "Star Trek: Discovery 2x08 \"If Memory Serves\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/8",
+    "watches": 1,
+    "last_watched": 1552188871,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3385230,
+    "title": "Star Trek: Discovery 2x09 \"Project Daedalus\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/9",
+    "watches": 1,
+    "last_watched": 1552963030,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3385231,
+    "title": "Star Trek: Discovery 2x10 \"The Red Angel\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/10",
+    "watches": 1,
+    "last_watched": 1553478344,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3385232,
+    "title": "Star Trek: Discovery 2x11 \"Perpetual Infinity\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/11",
+    "watches": 1,
+    "last_watched": 1553993853,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3385233,
+    "title": "Star Trek: Discovery 2x12 \"Through the Valley of Shadows\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/12",
+    "watches": 1,
+    "last_watched": 1554596809,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3385234,
+    "title": "Star Trek: Discovery 2x13 \"Such Sweet Sorrow (1)\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/13",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3385235,
+    "title": "Star Trek: Discovery 2x14 \"Such Sweet Sorrow (2)\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/14",
     "watches": 0,
     "last_watched": null,
     "type": "TVEpisode"
@@ -3211,8 +3265,8 @@
     "episode_id": 37244,
     "title": "Star Trek: Deep Space Nine 1x09 \"The Passenger\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/1/episodes/9",
-    "watches": 1,
-    "last_watched": 1369360629,
+    "watches": 2,
+    "last_watched": 1549328357,
     "type": "TVEpisode"
   },
   {
@@ -4180,7 +4234,7 @@
   {
     "series_id": 579,
     "episode_id": 37300,
-    "title": "Star Trek: Deep Space Nine 3x20 \"Improbable Cause \"",
+    "title": "Star Trek: Deep Space Nine 3x20 \"Improbable Cause\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/3/episodes/20",
     "watches": 1,
     "last_watched": 1501500970,
@@ -4486,7 +4540,7 @@
   {
     "series_id": 579,
     "episode_id": 37318,
-    "title": "Star Trek: Deep Space Nine 4x12 \"Paradise Lost \"",
+    "title": "Star Trek: Deep Space Nine 4x12 \"Paradise Lost\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/4/episodes/12",
     "watches": 1,
     "last_watched": 1502412516,
