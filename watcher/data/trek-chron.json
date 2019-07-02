@@ -1018,6 +1018,15 @@
   },
   {
     "series_id": 110419,
+    "episode_id": 3164165,
+    "title": "Star Trek: Discovery 0x05 \"Short Treks: The Escape Artist\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/5",
+    "watches": 1,
+    "last_watched": 1547170229,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
     "episode_id": 3187527,
     "title": "Star Trek: Discovery 2x01 \"Brother\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/1",
@@ -1129,8 +1138,8 @@
     "episode_id": 3385234,
     "title": "Star Trek: Discovery 2x13 \"Such Sweet Sorrow (1)\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/13",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1555559000,
     "type": "TVEpisode"
   },
   {
@@ -1138,8 +1147,8 @@
     "episode_id": 3385235,
     "title": "Star Trek: Discovery 2x14 \"Such Sweet Sorrow (2)\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/14",
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1557367810,
     "type": "TVEpisode"
   },
   {
@@ -3274,8 +3283,8 @@
     "episode_id": 41029,
     "title": "Star Trek: The Next Generation 6x16 \"Birthright (1)\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6/episodes/16",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1555960848,
     "type": "TVEpisode"
   },
   {
@@ -3283,8 +3292,8 @@
     "episode_id": 41030,
     "title": "Star Trek: The Next Generation 6x17 \"Birthright (2)\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6/episodes/17",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1555965702,
     "type": "TVEpisode"
   },
   {
@@ -3292,8 +3301,8 @@
     "episode_id": 37245,
     "title": "Star Trek: Deep Space Nine 1x10 \"Move Along Home\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/1/episodes/10",
-    "watches": 1,
-    "last_watched": 1369531151,
+    "watches": 2,
+    "last_watched": 1559087104,
     "type": "TVEpisode"
   },
   {
