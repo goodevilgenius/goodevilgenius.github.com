@@ -1,5 +1,23 @@
 [
   {
+    "series_id": 110419,
+    "episode_id": 3747180,
+    "title": "Star Trek: Discovery 0x09 \"Short Treks: The Girl Who Made the Stars\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/9",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747181,
+    "title": "Star Trek: Discovery 0x10 \"Short Treks: Ephraim and Dot\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/10",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
     "series_id": 313,
     "episode_id": 17712,
     "title": "Star Trek: Enterprise 1x01 \"Broken Bow (1)\"",
@@ -1158,6 +1176,15 @@
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/14",
     "watches": 1,
     "last_watched": 1557367810,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747178,
+    "title": "Star Trek: Discovery 0x07 \"Short Treks: The Trouble with Edward\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/7",
+    "watches": 0,
+    "last_watched": null,
     "type": "TVEpisode"
   },
   {
@@ -6714,56 +6741,20 @@
   },
   {
     "series_id": 110419,
-    "episode_id": 3164160,
-    "title": "Star Trek: Discovery 0x03 \"Short Treks: Calypso\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/3",
-    "watches": 2,
-    "last_watched": 1545009427,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
-    "episode_id": 3747178,
-    "title": "Star Trek: Discovery 0x07 \"Short Treks: The Trouble with Edward\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/7",
-    "watches": 0,
-    "last_watched": null,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
-    "episode_id": 3747179,
-    "title": "Star Trek: Discovery 0x08 \"Short Treks: Ask Not\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/8",
-    "watches": 0,
-    "last_watched": null,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
-    "episode_id": 3747180,
-    "title": "Star Trek: Discovery 0x09 \"Short Treks: The Girl Who Made the Stars\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/9",
-    "watches": 0,
-    "last_watched": null,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
-    "episode_id": 3747181,
-    "title": "Star Trek: Discovery 0x10 \"Short Treks: Ephraim and Dot\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/10",
-    "watches": 0,
-    "last_watched": null,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
     "episode_id": 3747182,
     "title": "Star Trek: Discovery 0x11 \"Short Treks: Children of Mars\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/11",
     "watches": 0,
     "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3164160,
+    "title": "Star Trek: Discovery 0x03 \"Short Treks: Calypso\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/3",
+    "watches": 2,
+    "last_watched": 1545009427,
     "type": "TVEpisode"
   }
 ]
