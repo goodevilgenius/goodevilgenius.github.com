@@ -856,6 +856,15 @@
   },
   {
     "series_id": 110419,
+    "episode_id": 3747177,
+    "title": "Star Trek: Discovery 0x06 \"Short Treks: Q&A\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/6",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
     "episode_id": 3164163,
     "title": "Star Trek: Discovery 0x04 \"Short Treks: The Brightest Star\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/4",
@@ -3823,8 +3832,8 @@
     "episode_id": 37273,
     "title": "Star Trek: Deep Space Nine 2x19 \"Blood Oath\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/2/episodes/19",
-    "watches": 1,
-    "last_watched": 1454894160,
+    "watches": 2,
+    "last_watched": 1570331502,
     "type": "TVEpisode"
   },
   {
@@ -3832,8 +3841,8 @@
     "episode_id": 41059,
     "title": "Star Trek: The Next Generation 7x20 \"Journey's End\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7/episodes/20",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1570546769,
     "type": "TVEpisode"
   },
   {
@@ -3841,8 +3850,8 @@
     "episode_id": 37274,
     "title": "Star Trek: Deep Space Nine 2x20 \"The Maquis (1)\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/2/episodes/20",
-    "watches": 1,
-    "last_watched": 1454897340,
+    "watches": 2,
+    "last_watched": 1571057342,
     "type": "TVEpisode"
   },
   {
@@ -3850,8 +3859,8 @@
     "episode_id": 37275,
     "title": "Star Trek: Deep Space Nine 2x21 \"The Maquis (2)\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/2/episodes/21",
-    "watches": 1,
-    "last_watched": 1454900079,
+    "watches": 2,
+    "last_watched": 1571059965,
     "type": "TVEpisode"
   },
   {
@@ -3859,8 +3868,8 @@
     "episode_id": 41060,
     "title": "Star Trek: The Next Generation 7x21 \"Firstborn\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7/episodes/21",
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1571070016,
     "type": "TVEpisode"
   },
   {
@@ -6710,6 +6719,51 @@
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/3",
     "watches": 2,
     "last_watched": 1545009427,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747178,
+    "title": "Star Trek: Discovery 0x07 \"Short Treks: The Trouble with Edward\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/7",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747179,
+    "title": "Star Trek: Discovery 0x08 \"Short Treks: Ask Not\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/8",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747180,
+    "title": "Star Trek: Discovery 0x09 \"Short Treks: The Girl Who Made the Stars\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/9",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747181,
+    "title": "Star Trek: Discovery 0x10 \"Short Treks: Ephraim and Dot\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/10",
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747182,
+    "title": "Star Trek: Discovery 0x11 \"Short Treks: Children of Mars\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/11",
+    "watches": 0,
+    "last_watched": null,
     "type": "TVEpisode"
   }
 ]
