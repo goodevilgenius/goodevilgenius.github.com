@@ -1,9 +1,13 @@
+/* global axios, location, Vue */
+
 (function() {
   'use strict';
 
   if (location.protocol == 'http:' && location.host == 'projects.danielrayjones.com') {
     location.replace(location.href.replace('http:', 'https:'));
   }
+
+  let nowTS = Date.now() / 1000;
 
   var watched = new Vue({
     el: '#app',
@@ -16,7 +20,11 @@
       list: function() {
         const list = this.fullList;
         const now = this.current;
-        return list ? list.filter(item => item.last_watched < now.date) : [];
+          return list ? list.filter(function (item) {
+              if (!item.released) return false;
+
+              return item.released <= nowTS && item.last_watched < now.date;
+          }) : [];
       }
     },
     methods: {
