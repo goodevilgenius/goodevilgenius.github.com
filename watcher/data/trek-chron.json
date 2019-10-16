@@ -955,8 +955,8 @@
     "title": "Star Trek: Discovery 0x06 \"Short Treks: Q&A\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/6",
     "released": 1570321800,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1571227584,
     "type": "TVEpisode"
   },
   {
@@ -1295,8 +1295,8 @@
     "title": "Star Trek: Discovery 0x07 \"Short Treks: The Trouble with Edward\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/7",
     "released": 1570753800,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1571228405,
     "type": "TVEpisode"
   },
   {
@@ -4313,8 +4313,8 @@
     "title": "Star Trek: The Next Generation 7x22 \"Bloodlines\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7/episodes/22",
     "released": 767926800,
-    "watches": 1,
-    "last_watched": 1301077895,
+    "watches": 2,
+    "last_watched": 1571164061,
     "type": "TVEpisode"
   },
   {
@@ -4323,8 +4323,8 @@
     "title": "Star Trek: Deep Space Nine 2x22 \"The Wire\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/2/episodes/22",
     "released": 768369600,
-    "watches": 1,
-    "last_watched": 1456521988,
+    "watches": 2,
+    "last_watched": 1571185502,
     "type": "TVEpisode"
   },
   {
@@ -4333,8 +4333,8 @@
     "title": "Star Trek: The Next Generation 7x23 \"Emergence\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7/episodes/23",
     "released": 768531600,
-    "watches": 1,
-    "last_watched": 1301078043,
+    "watches": 2,
+    "last_watched": 1571197398,
     "type": "TVEpisode"
   },
   {
