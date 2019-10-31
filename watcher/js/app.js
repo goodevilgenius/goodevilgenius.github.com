@@ -21,7 +21,7 @@
         const list = this.fullList;
         const now = this.current;
           return list ? list.filter(function (item) {
-              if (!item.released) return false;
+              item.released = item.released || 1;
 
               return item.released <= nowTS && item.last_watched < now.date;
           }) : [];
