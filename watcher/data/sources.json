@@ -12,6 +12,12 @@
     "url":"https://trakt.tv/shows/inuyasha"
   },
   {
+    "name":"Clannad",
+    "slug":"clannad",
+    "date":1301080125,
+    "url":"https://trakt.tv/shows/clannad"
+  },
+  {
     "name":"IT Crowd",
     "slug":"it-crowd",
     "date":1512482162,
