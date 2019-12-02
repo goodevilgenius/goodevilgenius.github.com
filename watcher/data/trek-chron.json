@@ -961,6 +961,16 @@
   },
   {
     "series_id": 110419,
+    "episode_id": 3747179,
+    "title": "Star Trek: Discovery 0x08 \"Short Treks: Ask Not\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/8",
+    "released": 1573781400,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
     "episode_id": 3164163,
     "title": "Star Trek: Discovery 0x04 \"Short Treks: The Brightest Star\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/4",
@@ -2320,7 +2330,7 @@
   {
     "series_id": 653,
     "episode_id": 40904,
-    "title": "Star Trek: The Next Generation 1x17 \"When The Bough Breaks\"",
+    "title": "Star Trek: The Next Generation 1x17 \"When the Bough Breaks\"",
     "url": "https://trakt.tv/shows/star-trek-the-next-generation/seasons/1/episodes/17",
     "released": 571975200,
     "watches": 2,
@@ -4801,8 +4811,8 @@
     "title": "Star Trek: Deep Space Nine 3x24 \"Shakaar\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/3/episodes/24",
     "released": 801115200,
-    "watches": 1,
-    "last_watched": 1501712102,
+    "watches": 2,
+    "last_watched": 1574776731,
     "type": "TVEpisode"
   },
   {
@@ -4811,8 +4821,8 @@
     "title": "Star Trek: Voyager 1x16 \"Learning Curve\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/1/episodes/16",
     "released": 801115200,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1574862010,
     "type": "TVEpisode"
   },
   {
@@ -4821,8 +4831,8 @@
     "title": "Star Trek: Voyager 2x03 \"Projections\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/3",
     "released": 810792000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1574887791,
     "type": "TVEpisode"
   },
   {
@@ -4831,8 +4841,8 @@
     "title": "Star Trek: Deep Space Nine 3x25 \"Facets\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/3/episodes/25",
     "released": 802929600,
-    "watches": 1,
-    "last_watched": 1501760962,
+    "watches": 2,
+    "last_watched": 1574896379,
     "type": "TVEpisode"
   },
   {
@@ -4841,8 +4851,8 @@
     "title": "Star Trek: Deep Space Nine 3x26 \"The Adversary\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/3/episodes/26",
     "released": 803534400,
-    "watches": 1,
-    "last_watched": 1501796190,
+    "watches": 2,
+    "last_watched": 1575000122,
     "type": "TVEpisode"
   },
   {
@@ -4851,8 +4861,8 @@
     "title": "Star Trek: Voyager 2x01 \"The 37's\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/1",
     "released": 809582400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1575088551,
     "type": "TVEpisode"
   },
   {
@@ -4861,8 +4871,8 @@
     "title": "Star Trek: Voyager 2x02 \"Initiations\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/2",
     "released": 810187200,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1575167881,
     "type": "TVEpisode"
   },
   {
@@ -4871,8 +4881,8 @@
     "title": "Star Trek: Voyager 2x04 \"Elogium\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/4",
     "released": 811396800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1575300116,
     "type": "TVEpisode"
   },
   {
@@ -7487,16 +7497,6 @@
     "released": 1541727000,
     "watches": 2,
     "last_watched": 1545009427,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
-    "episode_id": 3747180,
-    "title": "Star Trek: Discovery 0x09 \"Short Treks: The Girl Who Made the Stars\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/9",
-    "released": 1576200600,
-    "watches": 0,
-    "last_watched": null,
     "type": "TVEpisode"
   },
   {
