@@ -951,6 +951,16 @@
   },
   {
     "series_id": 110419,
+    "episode_id": 3747180,
+    "title": "Star Trek: Discovery 0x09 \"Short Treks: The Girl Who Made the Stars\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/9",
+    "released": 1576200600,
+    "watches": 1,
+    "last_watched": 1578680945,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
     "episode_id": 3747177,
     "title": "Star Trek: Discovery 0x06 \"Short Treks: Q&A\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/6",
@@ -961,22 +971,22 @@
   },
   {
     "series_id": 110419,
-    "episode_id": 3747179,
-    "title": "Star Trek: Discovery 0x08 \"Short Treks: Ask Not\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/8",
-    "released": 1573781400,
-    "watches": 0,
-    "last_watched": null,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
     "episode_id": 3164163,
     "title": "Star Trek: Discovery 0x04 \"Short Treks: The Brightest Star\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/4",
     "released": 1544146200,
     "watches": 1,
     "last_watched": 1544489272,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747179,
+    "title": "Star Trek: Discovery 0x08 \"Short Treks: Ask Not\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/8",
+    "released": 1573781400,
+    "watches": 1,
+    "last_watched": 1578679874,
     "type": "TVEpisode"
   },
   {
@@ -1547,6 +1557,16 @@
     "released": -90628200,
     "watches": 2,
     "last_watched": 1523046526,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 110419,
+    "episode_id": 3747181,
+    "title": "Star Trek: Discovery 0x10 \"Short Treks: Ephraim and Dot\"",
+    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/10",
+    "released": 1576200600,
+    "watches": 1,
+    "last_watched": 1578680421,
     "type": "TVEpisode"
   },
   {
@@ -5271,8 +5291,8 @@
     "title": "Star Trek: Voyager 2x23 \"The Thaw\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/23",
     "released": 830750400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1578520603,
     "type": "TVEpisode"
   },
   {
@@ -5281,8 +5301,8 @@
     "title": "Star Trek: Deep Space Nine 4x21 \"The Muse\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/4/episodes/21",
     "released": 830750400,
-    "watches": 1,
-    "last_watched": 1502924024,
+    "watches": 2,
+    "last_watched": 1578602047,
     "type": "TVEpisode"
   },
   {
@@ -5291,8 +5311,8 @@
     "title": "Star Trek: Voyager 2x24 \"Tuvix\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/24",
     "released": 831355200,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1578607352,
     "type": "TVEpisode"
   },
   {
@@ -7475,8 +7495,8 @@
     "title": "Star Trek: Discovery 0x11 \"Short Treks: Children of Mars\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/11",
     "released": 1578619800,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1578681455,
     "type": "TVEpisode"
   },
   {
@@ -7497,16 +7517,6 @@
     "released": 1541727000,
     "watches": 2,
     "last_watched": 1545009427,
-    "type": "TVEpisode"
-  },
-  {
-    "series_id": 110419,
-    "episode_id": 3747181,
-    "title": "Star Trek: Discovery 0x10 \"Short Treks: Ephraim and Dot\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/10",
-    "released": 1576200600,
-    "watches": 0,
-    "last_watched": null,
     "type": "TVEpisode"
   }
 ]
