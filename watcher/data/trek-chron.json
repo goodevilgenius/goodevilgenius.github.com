@@ -950,43 +950,43 @@
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
-    "episode_id": 3747180,
-    "title": "Star Trek: Discovery 0x09 \"Short Treks: The Girl Who Made the Stars\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/9",
-    "released": 1576200600,
+    "series_id": 157590,
+    "episode_id": 3747181,
+    "title": "Star Trek: Short Treks 2x05 \"The Girl Who Made the Stars\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/2/episodes/5",
+    "released": 1576126800,
     "watches": 1,
-    "last_watched": 1578680945,
+    "last_watched": 1578680940,
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3747177,
-    "title": "Star Trek: Discovery 0x06 \"Short Treks: Q&A\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/6",
-    "released": 1570321800,
+    "title": "Star Trek: Short Treks 2x01 \"Q&A\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/2/episodes/1",
+    "released": 1570248000,
     "watches": 1,
-    "last_watched": 1571227584,
+    "last_watched": 1571227560,
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3164163,
-    "title": "Star Trek: Discovery 0x04 \"Short Treks: The Brightest Star\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/4",
-    "released": 1544146200,
+    "title": "Star Trek: Short Treks 1x03 \"The Brightest Star\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/1/episodes/3",
+    "released": 1544072400,
     "watches": 1,
-    "last_watched": 1544489272,
+    "last_watched": 1544489220,
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3747179,
-    "title": "Star Trek: Discovery 0x08 \"Short Treks: Ask Not\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/8",
-    "released": 1573781400,
+    "title": "Star Trek: Short Treks 2x03 \"Ask Not\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/2/episodes/3",
+    "released": 1573707600,
     "watches": 1,
-    "last_watched": 1578679874,
+    "last_watched": 1578679860,
     "type": "TVEpisode"
   },
   {
@@ -1005,8 +1005,8 @@
     "title": "Star Trek: Discovery 1x01 \"The Vulcan Hello\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/1",
     "released": 1506299400,
-    "watches": 2,
-    "last_watched": 1519043891,
+    "watches": 4,
+    "last_watched": 1544747704,
     "type": "TVEpisode"
   },
   {
@@ -1015,8 +1015,8 @@
     "title": "Star Trek: Discovery 1x02 \"Battle at the Binary Stars\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/2",
     "released": 1506299400,
-    "watches": 2,
-    "last_watched": 1519129892,
+    "watches": 4,
+    "last_watched": 1545009427,
     "type": "TVEpisode"
   },
   {
@@ -1025,8 +1025,8 @@
     "title": "Star Trek: Discovery 1x03 \"Context Is for Kings\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/3",
     "released": 1506904200,
-    "watches": 2,
-    "last_watched": 1519216900,
+    "watches": 3,
+    "last_watched": 1544489272,
     "type": "TVEpisode"
   },
   {
@@ -1035,8 +1035,8 @@
     "title": "Star Trek: Discovery 1x04 \"The Butcher's Knife Cares Not for the Lamb's Cry\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/1/episodes/4",
     "released": 1507509000,
-    "watches": 2,
-    "last_watched": 1519303421,
+    "watches": 3,
+    "last_watched": 1547170229,
     "type": "TVEpisode"
   },
   {
@@ -1150,23 +1150,23 @@
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3164158,
-    "title": "Star Trek: Discovery 0x02 \"Short Treks: Runaway\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/2",
-    "released": 1538699400,
-    "watches": 2,
-    "last_watched": 1544747704,
+    "title": "Star Trek: Short Treks 1x01 \"Runaway\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/1/episodes/1",
+    "released": 1538625600,
+    "watches": 1,
+    "last_watched": 1544747700,
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3164165,
-    "title": "Star Trek: Discovery 0x05 \"Short Treks: The Escape Artist\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/5",
-    "released": 1546565400,
+    "title": "Star Trek: Short Treks 1x04 \"The Escape Artist\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/1/episodes/4",
+    "released": 1546491600,
     "watches": 1,
-    "last_watched": 1547170229,
+    "last_watched": 1547170200,
     "type": "TVEpisode"
   },
   {
@@ -1175,8 +1175,8 @@
     "title": "Star Trek: Discovery 2x01 \"Brother\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/1",
     "released": 1547775000,
-    "watches": 1,
-    "last_watched": 1547953222,
+    "watches": 2,
+    "last_watched": 1571227584,
     "type": "TVEpisode"
   },
   {
@@ -1185,8 +1185,8 @@
     "title": "Star Trek: Discovery 2x02 \"New Eden\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/2",
     "released": 1548379800,
-    "watches": 1,
-    "last_watched": 1549242094,
+    "watches": 2,
+    "last_watched": 1571228405,
     "type": "TVEpisode"
   },
   {
@@ -1195,8 +1195,8 @@
     "title": "Star Trek: Discovery 2x03 \"Point of Light\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/3",
     "released": 1548984600,
-    "watches": 1,
-    "last_watched": 1549509445,
+    "watches": 2,
+    "last_watched": 1578679874,
     "type": "TVEpisode"
   },
   {
@@ -1205,8 +1205,8 @@
     "title": "Star Trek: Discovery 2x04 \"An Obol for Charon\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/4",
     "released": 1549589400,
-    "watches": 1,
-    "last_watched": 1550112346,
+    "watches": 2,
+    "last_watched": 1578680945,
     "type": "TVEpisode"
   },
   {
@@ -1215,8 +1215,8 @@
     "title": "Star Trek: Discovery 2x05 \"Saints of Imperfection\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/5",
     "released": 1550194200,
-    "watches": 1,
-    "last_watched": 1550453049,
+    "watches": 2,
+    "last_watched": 1578680421,
     "type": "TVEpisode"
   },
   {
@@ -1225,8 +1225,8 @@
     "title": "Star Trek: Discovery 2x06 \"The Sound of Thunder\"",
     "url": "https://trakt.tv/shows/star-trek-discovery/seasons/2/episodes/6",
     "released": 1550799000,
-    "watches": 1,
-    "last_watched": 1551059479,
+    "watches": 2,
+    "last_watched": 1578681455,
     "type": "TVEpisode"
   },
   {
@@ -1310,13 +1310,13 @@
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3747178,
-    "title": "Star Trek: Discovery 0x07 \"Short Treks: The Trouble with Edward\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/7",
-    "released": 1570753800,
+    "title": "Star Trek: Short Treks 2x02 \"The Trouble with Edward\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/2/episodes/2",
+    "released": 1570680000,
     "watches": 1,
-    "last_watched": 1571228405,
+    "last_watched": 1571228400,
     "type": "TVEpisode"
   },
   {
@@ -1560,13 +1560,13 @@
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
-    "episode_id": 3747181,
-    "title": "Star Trek: Discovery 0x10 \"Short Treks: Ephraim and Dot\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/10",
-    "released": 1576200600,
+    "series_id": 157590,
+    "episode_id": 3747180,
+    "title": "Star Trek: Short Treks 2x04 \"Ephraim and Dot\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/2/episodes/4",
+    "released": 1576126800,
     "watches": 1,
-    "last_watched": 1578680421,
+    "last_watched": 1578680400,
     "type": "TVEpisode"
   },
   {
@@ -5381,8 +5381,8 @@
     "title": "Star Trek: Voyager 2x26 \"Basics (1)\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/2/episodes/26",
     "released": 832564800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1579289692,
     "type": "TVEpisode"
   },
   {
@@ -5391,8 +5391,8 @@
     "title": "Star Trek: Voyager 3x01 \"Basics (2)\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/1",
     "released": 841809600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1579293276,
     "type": "TVEpisode"
   },
   {
@@ -5401,8 +5401,8 @@
     "title": "Star Trek: Deep Space Nine 5x01 \"Apocalypse Rising\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/1",
     "released": 844056000,
-    "watches": 1,
-    "last_watched": 1503364497,
+    "watches": 2,
+    "last_watched": 1579552826,
     "type": "TVEpisode"
   },
   {
@@ -5411,8 +5411,8 @@
     "title": "Star Trek: Deep Space Nine 5x02 \"The Ship\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/2",
     "released": 844660800,
-    "watches": 1,
-    "last_watched": 1503439838,
+    "watches": 2,
+    "last_watched": 1579645112,
     "type": "TVEpisode"
   },
   {
@@ -5421,8 +5421,8 @@
     "title": "Star Trek: Voyager 3x07 \"Sacred Ground\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/7",
     "released": 846651600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1579733172,
     "type": "TVEpisode"
   },
   {
@@ -5431,8 +5431,8 @@
     "title": "Star Trek: Voyager 3x05 \"False Profits\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/5",
     "released": 844228800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1579810729,
     "type": "TVEpisode"
   },
   {
@@ -5441,8 +5441,8 @@
     "title": "Star Trek: Voyager 3x02 \"Flashback\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/2",
     "released": 842414400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1580326100,
     "type": "TVEpisode"
   },
   {
@@ -5451,8 +5451,8 @@
     "title": "Star Trek: Voyager 3x03 \"The Chute\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/3",
     "released": 843019200,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1580402628,
     "type": "TVEpisode"
   },
   {
@@ -7490,33 +7490,123 @@
     "type": "Movie"
   },
   {
-    "series_id": 110419,
+    "series_id": 157590,
     "episode_id": 3747182,
-    "title": "Star Trek: Discovery 0x11 \"Short Treks: Children of Mars\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/11",
-    "released": 1578619800,
+    "title": "Star Trek: Short Treks 2x06 \"Children of Mars\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/2/episodes/6",
+    "released": 1578546000,
     "watches": 1,
-    "last_watched": 1578681455,
+    "last_watched": 1578681420,
     "type": "TVEpisode"
   },
   {
     "series_id": 147922,
     "episode_id": 3747176,
-    "title": "Star Trek: Picard 1x01 \"TBA\"",
+    "title": "Star Trek: Picard 1x01 \"Remembrance\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/1",
     "released": 1579766400,
+    "watches": 1,
+    "last_watched": 1579828183,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913103,
+    "title": "Star Trek: Picard 1x02 \"Maps and Legends\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/2",
+    "released": 1580371200,
+    "watches": 1,
+    "last_watched": 1580518719,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913104,
+    "title": "Star Trek: Picard 1x03 \"The End is the Beginning\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/3",
+    "released": 1580976000,
     "watches": 0,
     "last_watched": null,
     "type": "TVEpisode"
   },
   {
-    "series_id": 110419,
+    "series_id": 147922,
+    "episode_id": 3913105,
+    "title": "Star Trek: Picard 1x04 \"Absolute Candor\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/4",
+    "released": 1581580800,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913106,
+    "title": "Star Trek: Picard 1x05 \"Stardust City Rag\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/5",
+    "released": 1582185600,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913107,
+    "title": "Star Trek: Picard 1x06 \"Episode 6\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/6",
+    "released": 1582790400,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913108,
+    "title": "Star Trek: Picard 1x07 \"Episode 7\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/7",
+    "released": 1583395200,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913109,
+    "title": "Star Trek: Picard 1x08 \"Episode 8\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/8",
+    "released": 1583996400,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913111,
+    "title": "Star Trek: Picard 1x09 \"Episode 9\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/9",
+    "released": 1584601200,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 147922,
+    "episode_id": 3913112,
+    "title": "Star Trek: Picard 1x10 \"Episode 10\"",
+    "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/10",
+    "released": 1585206000,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 157590,
     "episode_id": 3164160,
-    "title": "Star Trek: Discovery 0x03 \"Short Treks: Calypso\"",
-    "url": "https://trakt.tv/shows/star-trek-discovery/seasons/0/episodes/3",
-    "released": 1541727000,
-    "watches": 2,
-    "last_watched": 1545009427,
+    "title": "Star Trek: Short Treks 1x02 \"Calypso\"",
+    "url": "https://trakt.tv/shows/star-trek-short-treks/seasons/1/episodes/2",
+    "released": 1541653200,
+    "watches": 1,
+    "last_watched": 1545009420,
     "type": "TVEpisode"
   }
 ]
