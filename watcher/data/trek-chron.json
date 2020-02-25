@@ -5461,8 +5461,8 @@
     "title": "Star Trek: Voyager 3x06 \"Remember\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/6",
     "released": 844833600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1581725192,
     "type": "TVEpisode"
   },
   {
@@ -5471,8 +5471,8 @@
     "title": "Star Trek: Voyager 3x04 \"The Swarm\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/4",
     "released": 843624000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1582064790,
     "type": "TVEpisode"
   },
   {
@@ -5481,8 +5481,8 @@
     "title": "Star Trek: Deep Space Nine 5x03 \"Looking for par'Mach in All the Wrong Places\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/3",
     "released": 845265600,
-    "watches": 1,
-    "last_watched": 1503450711,
+    "watches": 2,
+    "last_watched": 1582240720,
     "type": "TVEpisode"
   },
   {
@@ -5491,8 +5491,8 @@
     "title": "Star Trek: Deep Space Nine 5x04 \"...Nor the Battle to the Strong\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/4",
     "released": 845870400,
-    "watches": 1,
-    "last_watched": 1503489426,
+    "watches": 2,
+    "last_watched": 1582327659,
     "type": "TVEpisode"
   },
   {
@@ -5501,8 +5501,8 @@
     "title": "Star Trek: Deep Space Nine 5x05 \"The Assignment\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/5",
     "released": 846478800,
-    "watches": 1,
-    "last_watched": 1503536856,
+    "watches": 2,
+    "last_watched": 1582665906,
     "type": "TVEpisode"
   },
   {
@@ -7525,8 +7525,8 @@
     "title": "Star Trek: Picard 1x03 \"The End is the Beginning\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/3",
     "released": 1580976000,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1581206844,
     "type": "TVEpisode"
   },
   {
@@ -7535,8 +7535,8 @@
     "title": "Star Trek: Picard 1x04 \"Absolute Candor\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/4",
     "released": 1581580800,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1581736038,
     "type": "TVEpisode"
   },
   {
@@ -7545,14 +7545,14 @@
     "title": "Star Trek: Picard 1x05 \"Stardust City Rag\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/5",
     "released": 1582185600,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1582340859,
     "type": "TVEpisode"
   },
   {
     "series_id": 147922,
     "episode_id": 3913107,
-    "title": "Star Trek: Picard 1x06 \"Episode 6\"",
+    "title": "Star Trek: Picard 1x06 \"The Impossible Box\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/6",
     "released": 1582790400,
     "watches": 0,
@@ -7562,7 +7562,7 @@
   {
     "series_id": 147922,
     "episode_id": 3913108,
-    "title": "Star Trek: Picard 1x07 \"Episode 7\"",
+    "title": "Star Trek: Picard 1x07 \"Nepenthe\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/7",
     "released": 1583395200,
     "watches": 0,
@@ -7572,7 +7572,7 @@
   {
     "series_id": 147922,
     "episode_id": 3913109,
-    "title": "Star Trek: Picard 1x08 \"Episode 8\"",
+    "title": "Star Trek: Picard 1x08 \"Broken Pieces\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/8",
     "released": 1583996400,
     "watches": 0,
