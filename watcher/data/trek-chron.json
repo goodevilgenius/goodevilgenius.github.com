@@ -5631,8 +5631,8 @@
     "title": "Star Trek: Voyager 3x14 \"Alter Ego\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/14",
     "released": 853304400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1584026190,
     "type": "TVEpisode"
   },
   {
@@ -5641,8 +5641,8 @@
     "title": "Star Trek: Deep Space Nine 5x12 \"The Begotten\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/12",
     "released": 854341200,
-    "watches": 1,
-    "last_watched": 1503952554,
+    "watches": 2,
+    "last_watched": 1584041398,
     "type": "TVEpisode"
   },
   {
@@ -5651,8 +5651,8 @@
     "title": "Star Trek: Deep Space Nine 5x13 \"For the Uniform\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/13",
     "released": 854946000,
-    "watches": 1,
-    "last_watched": 1504025799,
+    "watches": 2,
+    "last_watched": 1584049543,
     "type": "TVEpisode"
   },
   {
@@ -7582,7 +7582,7 @@
   {
     "series_id": 147922,
     "episode_id": 3913111,
-    "title": "Star Trek: Picard 1x09 \"Et in Arcadia Ego, Part 1\"",
+    "title": "Star Trek: Picard 1x09 \"Et in Arcadia Ego (1)\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/9",
     "released": 1584601200,
     "watches": 0,
@@ -7592,7 +7592,7 @@
   {
     "series_id": 147922,
     "episode_id": 3913112,
-    "title": "Star Trek: Picard 1x10 \"Et in Arcadia Ego, Part 2\"",
+    "title": "Star Trek: Picard 1x10 \"Et in Arcadia Ego (2)\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/10",
     "released": 1585206000,
     "watches": 0,
