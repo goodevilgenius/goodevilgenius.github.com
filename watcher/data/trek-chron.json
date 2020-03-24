@@ -5661,8 +5661,8 @@
     "title": "Star Trek: Voyager 3x15 \"Coda\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/15",
     "released": 854514000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1584053851,
     "type": "TVEpisode"
   },
   {
@@ -5671,16 +5671,16 @@
     "title": "Star Trek: Voyager 3x16 \"Blood Fever\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/16",
     "released": 855118800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1584457988,
     "type": "TVEpisode"
   },
   {
     "id": 162,
     "title": "Star Trek: First Contact (1996)",
     "url": "https://trakt.tv/movies/star-trek-first-contact-1996",
-    "watches": 2,
-    "last_watched": 1465786150,
+    "watches": 3,
+    "last_watched": 1584476136,
     "type": "Movie"
   },
   {
@@ -5689,8 +5689,8 @@
     "title": "Star Trek: Deep Space Nine 5x14 \"In Purgatory's Shadow\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/14",
     "released": 855550800,
-    "watches": 1,
-    "last_watched": 1504030646,
+    "watches": 2,
+    "last_watched": 1584562049,
     "type": "TVEpisode"
   },
   {
@@ -5699,8 +5699,8 @@
     "title": "Star Trek: Deep Space Nine 5x15 \"By Inferno's Light\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/15",
     "released": 856155600,
-    "watches": 1,
-    "last_watched": 1504036409,
+    "watches": 2,
+    "last_watched": 1584564777,
     "type": "TVEpisode"
   },
   {
@@ -5709,8 +5709,8 @@
     "title": "Star Trek: Voyager 3x17 \"Unity\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/17",
     "released": 855723600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1584651318,
     "type": "TVEpisode"
   },
   {
@@ -5719,8 +5719,8 @@
     "title": "Star Trek: Voyager 3x18 \"Darkling\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/18",
     "released": 856328400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1584730582,
     "type": "TVEpisode"
   },
   {
@@ -5729,8 +5729,8 @@
     "title": "Star Trek: Deep Space Nine 5x16 \"Doctor Bashir, I Presume?\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/16",
     "released": 856760400,
-    "watches": 1,
-    "last_watched": 1504093552,
+    "watches": 2,
+    "last_watched": 1585071107,
     "type": "TVEpisode"
   },
   {
@@ -7575,24 +7575,24 @@
     "title": "Star Trek: Picard 1x08 \"Broken Pieces\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/8",
     "released": 1583996400,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1584068652,
     "type": "TVEpisode"
   },
   {
     "series_id": 147922,
     "episode_id": 3913111,
-    "title": "Star Trek: Picard 1x09 \"Et in Arcadia Ego (1)\"",
+    "title": "Star Trek: Picard 1x09 \"Et in Arcadia Ego, Part 1\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/9",
     "released": 1584601200,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1584673941,
     "type": "TVEpisode"
   },
   {
     "series_id": 147922,
     "episode_id": 3913112,
-    "title": "Star Trek: Picard 1x10 \"Et in Arcadia Ego (2)\"",
+    "title": "Star Trek: Picard 1x10 \"Et in Arcadia Ego, Part 2\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/10",
     "released": 1585206000,
     "watches": 0,
