@@ -5739,8 +5739,8 @@
     "title": "Star Trek: Voyager 3x19 \"Rise\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/19",
     "released": 856933200,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1585163102,
     "type": "TVEpisode"
   },
   {
@@ -5749,8 +5749,8 @@
     "title": "Star Trek: Deep Space Nine 5x17 \"A Simple Investigation\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/17",
     "released": 859784400,
-    "watches": 1,
-    "last_watched": 1504138003,
+    "watches": 2,
+    "last_watched": 1585255989,
     "type": "TVEpisode"
   },
   {
@@ -5759,8 +5759,8 @@
     "title": "Star Trek: Deep Space Nine 5x18 \"Business as Usual\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/18",
     "released": 860385600,
-    "watches": 1,
-    "last_watched": 1504180418,
+    "watches": 2,
+    "last_watched": 1585337296,
     "type": "TVEpisode"
   },
   {
@@ -5769,8 +5769,8 @@
     "title": "Star Trek: Deep Space Nine 5x19 \"Ties of Blood and Water\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/19",
     "released": 860990400,
-    "watches": 1,
-    "last_watched": 1504266032,
+    "watches": 2,
+    "last_watched": 1585595683,
     "type": "TVEpisode"
   },
   {
@@ -5779,8 +5779,8 @@
     "title": "Star Trek: Voyager 3x20 \"Favorite Son\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/20",
     "released": 858747600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1585669843,
     "type": "TVEpisode"
   },
   {
@@ -5789,8 +5789,8 @@
     "title": "Star Trek: Deep Space Nine 5x20 \"Ferengi Love Songs\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/20",
     "released": 861595200,
-    "watches": 1,
-    "last_watched": 1504312101,
+    "watches": 2,
+    "last_watched": 1585688689,
     "type": "TVEpisode"
   },
   {
@@ -5799,8 +5799,8 @@
     "title": "Star Trek: Deep Space Nine 5x21 \"Soldiers of the Empire\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/21",
     "released": 862200000,
-    "watches": 1,
-    "last_watched": 1504401225,
+    "watches": 2,
+    "last_watched": 1585691470,
     "type": "TVEpisode"
   },
   {
@@ -5809,8 +5809,8 @@
     "title": "Star Trek: Deep Space Nine 5x22 \"Children of Time\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/22",
     "released": 862804800,
-    "watches": 1,
-    "last_watched": 1504485018,
+    "watches": 2,
+    "last_watched": 1585764573,
     "type": "TVEpisode"
   },
   {
@@ -5819,8 +5819,8 @@
     "title": "Star Trek: Voyager 3x21 \"Before and After\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/21",
     "released": 860558400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1585965047,
     "type": "TVEpisode"
   },
   {
@@ -5829,8 +5829,8 @@
     "title": "Star Trek: Voyager 3x22 \"Real Life\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/3/episodes/22",
     "released": 861768000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1586203680,
     "type": "TVEpisode"
   },
   {
@@ -7582,7 +7582,7 @@
   {
     "series_id": 147922,
     "episode_id": 3913111,
-    "title": "Star Trek: Picard 1x09 \"Et in Arcadia Ego, Part 1\"",
+    "title": "Star Trek: Picard 1x09 \"Et in Arcadia Ego (1)\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/9",
     "released": 1584601200,
     "watches": 1,
@@ -7592,11 +7592,11 @@
   {
     "series_id": 147922,
     "episode_id": 3913112,
-    "title": "Star Trek: Picard 1x10 \"Et in Arcadia Ego, Part 2\"",
+    "title": "Star Trek: Picard 1x10 \"Et in Arcadia Ego (2)\"",
     "url": "https://trakt.tv/shows/star-trek-picard/seasons/1/episodes/10",
     "released": 1585206000,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1585276693,
     "type": "TVEpisode"
   },
   {
