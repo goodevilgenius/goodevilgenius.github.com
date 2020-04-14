@@ -85,8 +85,8 @@
     "title": "Clannad 2x09 \"Along the Path\"",
     "url": "https://trakt.tv/shows/clannad/seasons/2/episodes/9",
     "released": null,
-    "watches": 1,
-    "last_watched": 1301080123,
+    "watches": 2,
+    "last_watched": 1586554951,
     "type": "TVEpisode"
   },
   {
@@ -217,6 +217,26 @@
     "released": null,
     "watches": 1,
     "last_watched": 1301080123,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 24724,
+    "episode_id": 4097859,
+    "title": "Clannad 2x23 \"Events From A Year Ago\"",
+    "url": "https://trakt.tv/shows/clannad/seasons/2/episodes/23",
+    "released": null,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 24724,
+    "episode_id": 4097860,
+    "title": "Clannad 2x24 \"Under the Green Tree\"",
+    "url": "https://trakt.tv/shows/clannad/seasons/2/episodes/24",
+    "released": null,
+    "watches": 0,
+    "last_watched": null,
     "type": "TVEpisode"
   }
 ]
