@@ -2140,6 +2140,226 @@
     "type": "TVEpisode"
   },
   {
+    "series_id": 1979,
+    "episode_id": 148263,
+    "title": "Star Trek: The Animated Series 1x01 \"Beyond the Farthest Star\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/1",
+    "released": 116308800,
+    "watches": 1,
+    "last_watched": 1322774126,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148264,
+    "title": "Star Trek: The Animated Series 1x02 \"Yesteryear\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/2",
+    "released": 116913600,
+    "watches": 1,
+    "last_watched": 1323968256,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148265,
+    "title": "Star Trek: The Animated Series 1x03 \"One of Our Planets is Missing\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/3",
+    "released": 117518400,
+    "watches": 1,
+    "last_watched": 1324659058,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148266,
+    "title": "Star Trek: The Animated Series 1x04 \"The Lorelei Signal\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/4",
+    "released": 118123200,
+    "watches": 1,
+    "last_watched": 1325871281,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148267,
+    "title": "Star Trek: The Animated Series 1x05 \"More Tribbles, More Troubles\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/5",
+    "released": 118728000,
+    "watches": 1,
+    "last_watched": 1326921547,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148268,
+    "title": "Star Trek: The Animated Series 1x06 \"The Survivor\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/6",
+    "released": 119332800,
+    "watches": 1,
+    "last_watched": 1327430791,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148269,
+    "title": "Star Trek: The Animated Series 1x07 \"The Infinite Vulcan\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/7",
+    "released": 119937600,
+    "watches": 1,
+    "last_watched": 1327515747,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148270,
+    "title": "Star Trek: The Animated Series 1x08 \"The Magicks of Megas-Tu\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/8",
+    "released": 120542400,
+    "watches": 1,
+    "last_watched": 1327598485,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148271,
+    "title": "Star Trek: The Animated Series 1x09 \"Once Upon a Planet\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/9",
+    "released": 121150800,
+    "watches": 1,
+    "last_watched": 1328027538,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148272,
+    "title": "Star Trek: The Animated Series 1x10 \"Mudd's Passion\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/10",
+    "released": 121755600,
+    "watches": 1,
+    "last_watched": 1329513127,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148273,
+    "title": "Star Trek: The Animated Series 1x11 \"The Terratin Incident\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/11",
+    "released": 122360400,
+    "watches": 1,
+    "last_watched": 1330117929,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148274,
+    "title": "Star Trek: The Animated Series 1x12 \"The Time Trap\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/12",
+    "released": 122965200,
+    "watches": 1,
+    "last_watched": 1332871549,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148275,
+    "title": "Star Trek: The Animated Series 1x13 \"The Ambergris Element\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/13",
+    "released": 123570000,
+    "watches": 1,
+    "last_watched": 1335033196,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148276,
+    "title": "Star Trek: The Animated Series 1x14 \"The Slaver Weapon\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/14",
+    "released": 124779600,
+    "watches": 1,
+    "last_watched": 1335034592,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148277,
+    "title": "Star Trek: The Animated Series 1x15 \"The Eye of the Beholder\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/15",
+    "released": 126594000,
+    "watches": 1,
+    "last_watched": 1337358185,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148278,
+    "title": "Star Trek: The Animated Series 1x16 \"The Jihad\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1/episodes/16",
+    "released": 127195200,
+    "watches": 1,
+    "last_watched": 1339180864,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148279,
+    "title": "Star Trek: The Animated Series 2x01 \"The Pirates of Orion\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/2/episodes/1",
+    "released": 147758400,
+    "watches": 1,
+    "last_watched": 1339430713,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148280,
+    "title": "Star Trek: The Animated Series 2x02 \"Bem\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/2/episodes/2",
+    "released": 148363200,
+    "watches": 1,
+    "last_watched": 1339611479,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148281,
+    "title": "Star Trek: The Animated Series 2x03 \"The Practical Joker\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/2/episodes/3",
+    "released": 148968000,
+    "watches": 1,
+    "last_watched": 1340392674,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148282,
+    "title": "Star Trek: The Animated Series 2x04 \"Albatross\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/2/episodes/4",
+    "released": 149572800,
+    "watches": 1,
+    "last_watched": 1353445010,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148283,
+    "title": "Star Trek: The Animated Series 2x05 \"How Sharper Than a Serpent's Tooth?\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/2/episodes/5",
+    "released": 150177600,
+    "watches": 1,
+    "last_watched": 1354291584,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 1979,
+    "episode_id": 148284,
+    "title": "Star Trek: The Animated Series 2x06 \"The Counter-Clock Incident\"",
+    "url": "https://trakt.tv/shows/star-trek-the-animated-series/seasons/2/episodes/6",
+    "released": 150782400,
+    "watches": 1,
+    "last_watched": 1354638728,
+    "type": "TVEpisode"
+  },
+  {
     "id": 117,
     "title": "Star Trek: The Motion Picture (1979)",
     "url": "https://trakt.tv/movies/star-trek-the-motion-picture-1979",
@@ -5909,8 +6129,8 @@
     "title": "Star Trek: Voyager 4x02 \"The Gift\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/2",
     "released": 873864000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1586981604,
     "type": "TVEpisode"
   },
   {
@@ -5919,8 +6139,8 @@
     "title": "Star Trek: Deep Space Nine 5x25 \"In the Cards\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/25",
     "released": 865828800,
-    "watches": 1,
-    "last_watched": 1504652748,
+    "watches": 2,
+    "last_watched": 1587072462,
     "type": "TVEpisode"
   },
   {
@@ -5929,8 +6149,8 @@
     "title": "Star Trek: Deep Space Nine 5x26 \"Call to Arms\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5/episodes/26",
     "released": 866433600,
-    "watches": 1,
-    "last_watched": 1504661492,
+    "watches": 2,
+    "last_watched": 1587152811,
     "type": "TVEpisode"
   },
   {
@@ -5939,8 +6159,8 @@
     "title": "Star Trek: Voyager 4x03 \"Day of Honor\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/3",
     "released": 874468800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1587413302,
     "type": "TVEpisode"
   },
   {
@@ -5949,8 +6169,8 @@
     "title": "Star Trek: Voyager 4x04 \"Nemesis\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/4",
     "released": 875073600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1587493192,
     "type": "TVEpisode"
   },
   {
@@ -5959,8 +6179,8 @@
     "title": "Star Trek: Voyager 4x05 \"Revulsion\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/5",
     "released": 875678400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1587673150,
     "type": "TVEpisode"
   },
   {
@@ -5969,8 +6189,8 @@
     "title": "Star Trek: Deep Space Nine 6x01 \"A Time to Stand\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/6/episodes/1",
     "released": 875505600,
-    "watches": 1,
-    "last_watched": 1504698338,
+    "watches": 2,
+    "last_watched": 1587759301,
     "type": "TVEpisode"
   },
   {
