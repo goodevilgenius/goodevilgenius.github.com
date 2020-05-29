@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Foursquare Code</title>
+    </head>
+    <body>
+        <p>Paste the following code into your terminal window: <span id="code"></span></p>
+        <script type="text/javascript">
+         let queries = window.location.search.replace(/^\?/, '').split('&');
+         queries.forEach(function (q) {
+             let split = q.split('=');
+             if (split[0] == 'code') {
+                 document.getElementById('code').textContent = split[1];
+             }
+         });
+        </script>
+    </body>
+</html>
