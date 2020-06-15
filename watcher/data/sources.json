@@ -6,6 +6,12 @@
     "url":"https://trakt.tv/users/goodevilgenius/lists/star-trek-chronology"
   },
   {
+      "name":"Avatar: The Last Airbender",
+      "slug":"airbender",
+      "date": 1592238609,
+      "url":"https://trakt.tv/shows/avatar-the-last-airbender"
+  },
+  {
     "name":"Inuyasha",
     "slug":"inuyasha",
     "date":1501713178,
