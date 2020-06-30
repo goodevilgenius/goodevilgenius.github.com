@@ -6449,8 +6449,8 @@
     "title": "Star Trek: Voyager 4x16 \"Prey\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/16",
     "released": 887778000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1592252457,
     "type": "TVEpisode"
   },
   {
@@ -6459,8 +6459,8 @@
     "title": "Star Trek: Voyager 4x17 \"Retrospect\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/17",
     "released": 888382800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1592332885,
     "type": "TVEpisode"
   },
   {
@@ -6469,8 +6469,8 @@
     "title": "Star Trek: Voyager 4x18 \"The Killing Game (1)\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/18",
     "released": 888987600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1592428534,
     "type": "TVEpisode"
   },
   {
@@ -6479,8 +6479,8 @@
     "title": "Star Trek: Voyager 4x19 \"The Killing Game (2)\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/19",
     "released": 888987600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1592442176,
     "type": "TVEpisode"
   },
   {
@@ -6489,8 +6489,8 @@
     "title": "Star Trek: Deep Space Nine 6x17 \"Wrongs Darker than Death or Night\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/6/episodes/17",
     "released": 891406800,
-    "watches": 1,
-    "last_watched": 1505680934,
+    "watches": 2,
+    "last_watched": 1592507694,
     "type": "TVEpisode"
   },
   {
@@ -6499,8 +6499,8 @@
     "title": "Star Trek: Deep Space Nine 6x18 \"Inquisition\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/6/episodes/18",
     "released": 892008000,
-    "watches": 1,
-    "last_watched": 1505684585,
+    "watches": 2,
+    "last_watched": 1592598163,
     "type": "TVEpisode"
   },
   {
@@ -6509,8 +6509,8 @@
     "title": "Star Trek: Deep Space Nine 6x19 \"In the Pale Moonlight\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/6/episodes/19",
     "released": 892612800,
-    "watches": 1,
-    "last_watched": 1505734548,
+    "watches": 2,
+    "last_watched": 1592938654,
     "type": "TVEpisode"
   },
   {
@@ -6519,8 +6519,8 @@
     "title": "Star Trek: Voyager 4x20 \"Vis à Vis\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/20",
     "released": 892008000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1593026547,
     "type": "TVEpisode"
   },
   {
@@ -6529,8 +6529,8 @@
     "title": "Star Trek: Voyager 4x21 \"The Omega Directive\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/21",
     "released": 892612800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1593114722,
     "type": "TVEpisode"
   },
   {
@@ -6539,8 +6539,8 @@
     "title": "Star Trek: Deep Space Nine 6x20 \"His Way\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/6/episodes/20",
     "released": 893217600,
-    "watches": 1,
-    "last_watched": 1505772118,
+    "watches": 2,
+    "last_watched": 1592855801,
     "type": "TVEpisode"
   },
   {
@@ -6549,8 +6549,8 @@
     "title": "Star Trek: Voyager 4x22 \"Unforgettable\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/4/episodes/22",
     "released": 893217600,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1593457478,
     "type": "TVEpisode"
   },
   {
@@ -7708,6 +7708,16 @@
     "watches": 1,
     "last_watched": 1332529737,
     "type": "Movie"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 3211153,
+    "title": "Star Trek: Lower Decks 1x01 \"Episode 1\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/1",
+    "released": null,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
   },
   {
     "series_id": 157590,
