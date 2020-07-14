@@ -12,6 +12,12 @@
       "url":"https://trakt.tv/shows/avatar-the-last-airbender"
   },
   {
+      "name":"Cardcaptor Sakura",
+      "slug":"cardcaptor",
+      "date": 1594750715,
+      "url":"https://trakt.tv/shows/cardcaptor-sakura"
+  },
+  {
     "name":"Inuyasha",
     "slug":"inuyasha",
     "date":1501713178,
