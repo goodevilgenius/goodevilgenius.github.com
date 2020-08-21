@@ -6869,8 +6869,8 @@
     "title": "Star Trek: Voyager 5x11 \"Latent Image\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/5/episodes/11",
     "released": 916808400,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1597264283,
     "type": "TVEpisode"
   },
   {
@@ -6879,8 +6879,8 @@
     "title": "Star Trek: Voyager 5x12 \"Bride of Chaotica!\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/5/episodes/12",
     "released": 917413200,
-    "watches": 1,
-    "last_watched": 1301077980,
+    "watches": 2,
+    "last_watched": 1597345687,
     "type": "TVEpisode"
   },
   {
@@ -6889,8 +6889,8 @@
     "title": "Star Trek: Deep Space Nine 7x12 \"The Emperor's New Cloak\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/7/episodes/12",
     "released": 918018000,
-    "watches": 1,
-    "last_watched": 1506823166,
+    "watches": 2,
+    "last_watched": 1597432871,
     "type": "TVEpisode"
   },
   {
@@ -6899,8 +6899,8 @@
     "title": "Star Trek: Voyager 5x13 \"Gravity\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/5/episodes/13",
     "released": 918018000,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1597697299,
     "type": "TVEpisode"
   },
   {
@@ -6909,8 +6909,8 @@
     "title": "Star Trek: Deep Space Nine 7x13 \"Field of Fire\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/7/episodes/13",
     "released": 918622800,
-    "watches": 1,
-    "last_watched": 1506825875,
+    "watches": 2,
+    "last_watched": 1597777957,
     "type": "TVEpisode"
   },
   {
@@ -6919,8 +6919,8 @@
     "title": "Star Trek: Voyager 5x14 \"Bliss\"",
     "url": "https://trakt.tv/shows/star-trek-voyager/seasons/5/episodes/14",
     "released": 918622800,
-    "watches": 1,
-    "last_watched": 1301078003,
+    "watches": 2,
+    "last_watched": 1597860771,
     "type": "TVEpisode"
   },
   {
@@ -6929,8 +6929,8 @@
     "title": "Star Trek: Deep Space Nine 7x14 \"Chimera\"",
     "url": "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/7/episodes/14",
     "released": 919227600,
-    "watches": 1,
-    "last_watched": 1506884791,
+    "watches": 2,
+    "last_watched": 1597942782,
     "type": "TVEpisode"
   },
   {
@@ -7725,8 +7725,8 @@
     "title": "Star Trek: Lower Decks 1x02 \"Envoys\"",
     "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/2",
     "released": 1597302000,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1597510134,
     "type": "TVEpisode"
   },
   {
@@ -7735,8 +7735,8 @@
     "title": "Star Trek: Lower Decks 1x03 \"Temporal Edict\"",
     "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/3",
     "released": 1597906800,
-    "watches": 0,
-    "last_watched": null,
+    "watches": 1,
+    "last_watched": 1597971484,
     "type": "TVEpisode"
   },
   {
@@ -7745,6 +7745,66 @@
     "title": "Star Trek: Lower Decks 1x04 \"Moist Vessel\"",
     "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/4",
     "released": 1598511600,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 4374757,
+    "title": "Star Trek: Lower Decks 1x05 \"Episode 5\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/5",
+    "released": 1599116400,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 4374758,
+    "title": "Star Trek: Lower Decks 1x06 \"Episode 6\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/6",
+    "released": 1599721200,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 4374759,
+    "title": "Star Trek: Lower Decks 1x07 \"Episode 7\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/7",
+    "released": 1600326000,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 4374760,
+    "title": "Star Trek: Lower Decks 1x08 \"Episode 8\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/8",
+    "released": 1600930800,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 4374761,
+    "title": "Star Trek: Lower Decks 1x09 \"Episode 9\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/9",
+    "released": 1601535600,
+    "watches": 0,
+    "last_watched": null,
+    "type": "TVEpisode"
+  },
+  {
+    "series_id": 138641,
+    "episode_id": 4374762,
+    "title": "Star Trek: Lower Decks 1x10 \"Episode 10\"",
+    "url": "https://trakt.tv/shows/star-trek-lower-decks/seasons/1/episodes/10",
+    "released": 1602140400,
     "watches": 0,
     "last_watched": null,
     "type": "TVEpisode"
