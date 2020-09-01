@@ -6,36 +6,6 @@
     "url":"https://trakt.tv/users/goodevilgenius/lists/star-trek-chronology"
   },
   {
-      "name":"Avatar: The Last Airbender",
-      "slug":"avatar",
-      "date": 1592238609,
-      "url":"https://trakt.tv/shows/avatar-the-last-airbender"
-  },
-  {
-      "name":"Cardcaptor Sakura",
-      "slug":"cardcaptor",
-      "date": 1594750715,
-      "url":"https://trakt.tv/shows/cardcaptor-sakura"
-  },
-  {
-    "name":"Inuyasha",
-    "slug":"inuyasha",
-    "date":1501713178,
-    "url":"https://trakt.tv/shows/inuyasha"
-  },
-  {
-    "name":"Clannad",
-    "slug":"clannad",
-    "date":1301080125,
-    "url":"https://trakt.tv/shows/clannad"
-  },
-  {
-    "name":"IT Crowd",
-    "slug":"it-crowd",
-    "date":1512482162,
-    "url":"https://trakt.tv/shows/the-it-crowd"
-  },
-  {
     "name":"Family Matters",
     "slug":"family-matters",
     "date":1506865199,
