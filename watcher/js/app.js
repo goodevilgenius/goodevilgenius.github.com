@@ -20,10 +20,14 @@
       list: function() {
         const list = this.fullList;
         const now = this.current;
-          return list ? list.filter(function (item) {
-              item.released = item.released || 1;
 
-              return item.released <= nowTS && item.last_watched < now.date;
+          return list ? list.filter(function (item) {
+              let released = item.released || 1;
+              if (typeof released == 'string') {
+                  released = (new Date(released)).valueOf() / 1000;
+              }
+
+              return released <= nowTS && item.last_watched < now.date;
           }) : [];
       }
     },
